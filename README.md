@@ -35,8 +35,7 @@ I’m exploring programming, solving problems, and building small projects to im
 ---
 
 ## 🔗 Connect with Me
-- **LinkedIn:** (Add your link here)
-- **GitHub:** [AFSHA-gif](https://github.com/AFSHA-gif)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afsha%20Hasan-blue?logo=linkedin)](https://www.linkedin.com/in/afsha-hasan-iert)  
+[![GitHub](https://img.shields.io/badge/GitHub-AFSHA--gif-black?logo=github)](https://github.com/AFSHA-gif)
 ---
 ⭐ *Thanks for visiting my profile!*
